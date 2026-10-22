@@ -1,1 +1,4 @@
 This lab covers Git workflow and commits.
+
+
+Commmits create a report of project changes.
